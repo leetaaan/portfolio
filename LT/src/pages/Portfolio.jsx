@@ -1,6 +1,6 @@
 import React from "react";
 
-import Image from "../img/portfolio/1.png";
+import Image from "../img/avatar.png";
 import { Link } from "react-router-dom";
 
 import { motion } from "framer-motion";
